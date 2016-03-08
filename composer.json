@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.3.9",
         "devboard/github-object-api-facade": "^0.3",
-        "devboard/github-api-facade": "^0.3"
+        "devboard/github-api-facade-bundle": "^0.3"
     },
     "require-dev": {
         "phpunit/phpunit":                          "~4",
