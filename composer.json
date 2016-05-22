@@ -12,7 +12,7 @@
     },
     "require": {
         "php": ">=7.0.0",
-        "devboard/github-object-api-facade": "^0.4",
+        "devboard/github-object-api-facade": "^0.5",
         "devboard/github-api-facade-bundle": "^0.4"
     },
     "require-dev": {
