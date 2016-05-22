@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d2d05d1b6eeebfcfe476473aa3c26619",
-    "content-hash": "144b1ea6caeea1b4171c118ec574205a",
+    "hash": "8dbd19c3934cf8a0f4c71e93356965a6",
+    "content-hash": "94971e94d8f4002dba52c2a6f368a97b",
     "packages": [
         {
             "name": "devboard/github-api-facade",
@@ -158,16 +158,16 @@
         },
         {
             "name": "devboard/github-object-api-facade",
-            "version": "v0.4.3",
+            "version": "v0.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-object-api-facade.git",
-                "reference": "fdd07b3206104bee580f686d21594c3bba85c33d"
+                "reference": "b26b22ed16365ac4615ba9efe824abc7835dcbea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/fdd07b3206104bee580f686d21594c3bba85c33d",
-                "reference": "fdd07b3206104bee580f686d21594c3bba85c33d",
+                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/b26b22ed16365ac4615ba9efe824abc7835dcbea",
+                "reference": "b26b22ed16365ac4615ba9efe824abc7835dcbea",
                 "shasum": ""
             },
             "require": {
@@ -206,7 +206,7 @@
                 "proprietary"
             ],
             "description": "Github Object API facade",
-            "time": "2016-05-21 19:43:11"
+            "time": "2016-05-22 12:50:02"
         },
         {
             "name": "guzzle/guzzle",
