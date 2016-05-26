@@ -4,25 +4,25 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8f7a3de56b3676768734caa49a85b57f",
-    "content-hash": "26fc53c4c8cbac9b89e1882738cd923a",
+    "hash": "9f417fb4bde2f16057430833df481219",
+    "content-hash": "24d5af35e9dd48146583cf029d5cb16c",
     "packages": [
         {
             "name": "devboard/github-api-facade",
-            "version": "v0.4.1",
+            "version": "0.5.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-api-facade.git",
-                "reference": "8a87b51eb3f167afa21170b73e4f4a3695f521b8"
+                "reference": "738209fcb9c610acc8698ea62109ece3741378ec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-api-facade/zipball/8a87b51eb3f167afa21170b73e4f4a3695f521b8",
-                "reference": "8a87b51eb3f167afa21170b73e4f4a3695f521b8",
+                "url": "https://api.github.com/repos/devboard/github-api-facade/zipball/738209fcb9c610acc8698ea62109ece3741378ec",
+                "reference": "738209fcb9c610acc8698ea62109ece3741378ec",
                 "shasum": ""
             },
             "require": {
-                "devboard/github-core": "^0.4",
+                "devboard/github-core": "0.5.x-dev",
                 "knplabs/github-api": "~1.4",
                 "php": ">=7.0.0"
             },
@@ -57,24 +57,24 @@
                 "proprietary"
             ],
             "description": "Github API facade",
-            "time": "2016-05-21 19:38:19"
+            "time": "2016-05-26 12:49:11"
         },
         {
             "name": "devboard/github-api-facade-bundle",
-            "version": "v0.4.0",
+            "version": "0.5.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-api-facade-bundle.git",
-                "reference": "376aa894df011f71aec3c60b3dfbb7875cfb2572"
+                "reference": "b58822e8f83169fa5b70bc27d9212825f0f4efb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-api-facade-bundle/zipball/376aa894df011f71aec3c60b3dfbb7875cfb2572",
-                "reference": "376aa894df011f71aec3c60b3dfbb7875cfb2572",
+                "url": "https://api.github.com/repos/devboard/github-api-facade-bundle/zipball/b58822e8f83169fa5b70bc27d9212825f0f4efb1",
+                "reference": "b58822e8f83169fa5b70bc27d9212825f0f4efb1",
                 "shasum": ""
             },
             "require": {
-                "devboard/github-api-facade": "^0.4",
+                "devboard/github-api-facade": "0.5.x-dev",
                 "php": ">=7.0.0"
             },
             "require-dev": {
@@ -108,20 +108,20 @@
                 "proprietary"
             ],
             "description": "Github API facade bundle",
-            "time": "2016-05-07 17:43:59"
+            "time": "2016-05-26 12:49:22"
         },
         {
             "name": "devboard/github-core",
-            "version": "v0.4.9",
+            "version": "0.5.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-core.git",
-                "reference": "986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60"
+                "reference": "538202ae31c1dcd9b630b11f0a38b2846c0a8f90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-core/zipball/986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60",
-                "reference": "986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60",
+                "url": "https://api.github.com/repos/devboard/github-core/zipball/538202ae31c1dcd9b630b11f0a38b2846c0a8f90",
+                "reference": "538202ae31c1dcd9b630b11f0a38b2846c0a8f90",
                 "shasum": ""
             },
             "require": {
@@ -154,24 +154,24 @@
                 "proprietary"
             ],
             "description": "Github Core",
-            "time": "2016-05-22 19:47:49"
+            "time": "2016-05-26 12:31:55"
         },
         {
             "name": "devboard/github-object-api-facade",
-            "version": "v0.5.1",
+            "version": "0.5.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-object-api-facade.git",
-                "reference": "a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6"
+                "reference": "13301c062df59d52b7965240ae47b1e34762ff7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6",
-                "reference": "a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6",
+                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/13301c062df59d52b7965240ae47b1e34762ff7b",
+                "reference": "13301c062df59d52b7965240ae47b1e34762ff7b",
                 "shasum": ""
             },
             "require": {
-                "devboard/github-api-facade": "^0.4",
+                "devboard/github-api-facade": "0.5.x-dev",
                 "knplabs/github-api": "~1.4",
                 "php": ">=7.0.0"
             },
@@ -206,7 +206,7 @@
                 "proprietary"
             ],
             "description": "Github Object API facade",
-            "time": "2016-05-22 16:39:20"
+            "time": "2016-05-26 12:54:26"
         },
         {
             "name": "guzzle/guzzle",
@@ -3501,7 +3501,10 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "devboard/github-object-api-facade": 20,
+        "devboard/github-api-facade-bundle": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
