@@ -116,12 +116,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-core.git",
-                "reference": "538202ae31c1dcd9b630b11f0a38b2846c0a8f90"
+                "reference": "63c7d912558bf561b6b1274145a4463b7f3aecbb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-core/zipball/538202ae31c1dcd9b630b11f0a38b2846c0a8f90",
-                "reference": "538202ae31c1dcd9b630b11f0a38b2846c0a8f90",
+                "url": "https://api.github.com/repos/devboard/github-core/zipball/63c7d912558bf561b6b1274145a4463b7f3aecbb",
+                "reference": "63c7d912558bf561b6b1274145a4463b7f3aecbb",
                 "shasum": ""
             },
             "require": {
@@ -154,7 +154,7 @@
                 "proprietary"
             ],
             "description": "Github Core",
-            "time": "2016-05-26 12:31:55"
+            "time": "2016-05-26 13:10:21"
         },
         {
             "name": "devboard/github-object-api-facade",
@@ -162,12 +162,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-object-api-facade.git",
-                "reference": "13301c062df59d52b7965240ae47b1e34762ff7b"
+                "reference": "0fb687746f3b1a6bc03a7beae8ce116865775145"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/13301c062df59d52b7965240ae47b1e34762ff7b",
-                "reference": "13301c062df59d52b7965240ae47b1e34762ff7b",
+                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/0fb687746f3b1a6bc03a7beae8ce116865775145",
+                "reference": "0fb687746f3b1a6bc03a7beae8ce116865775145",
                 "shasum": ""
             },
             "require": {
@@ -206,7 +206,7 @@
                 "proprietary"
             ],
             "description": "Github Object API facade",
-            "time": "2016-05-26 12:54:26"
+            "time": "2016-05-26 13:12:20"
         },
         {
             "name": "guzzle/guzzle",
