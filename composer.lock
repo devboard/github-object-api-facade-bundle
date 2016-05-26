@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8dbd19c3934cf8a0f4c71e93356965a6",
-    "content-hash": "94971e94d8f4002dba52c2a6f368a97b",
+    "hash": "8f7a3de56b3676768734caa49a85b57f",
+    "content-hash": "26fc53c4c8cbac9b89e1882738cd923a",
     "packages": [
         {
             "name": "devboard/github-api-facade",
@@ -112,16 +112,16 @@
         },
         {
             "name": "devboard/github-core",
-            "version": "v0.4.8",
+            "version": "v0.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-core.git",
-                "reference": "b0a463a6cd91bd55bd49d40952c8fbb89cc8ca9d"
+                "reference": "986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-core/zipball/b0a463a6cd91bd55bd49d40952c8fbb89cc8ca9d",
-                "reference": "b0a463a6cd91bd55bd49d40952c8fbb89cc8ca9d",
+                "url": "https://api.github.com/repos/devboard/github-core/zipball/986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60",
+                "reference": "986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60",
                 "shasum": ""
             },
             "require": {
@@ -154,20 +154,20 @@
                 "proprietary"
             ],
             "description": "Github Core",
-            "time": "2016-05-21 19:35:51"
+            "time": "2016-05-22 19:47:49"
         },
         {
             "name": "devboard/github-object-api-facade",
-            "version": "v0.5.0",
+            "version": "v0.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devboard/github-object-api-facade.git",
-                "reference": "b26b22ed16365ac4615ba9efe824abc7835dcbea"
+                "reference": "a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/b26b22ed16365ac4615ba9efe824abc7835dcbea",
-                "reference": "b26b22ed16365ac4615ba9efe824abc7835dcbea",
+                "url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6",
+                "reference": "a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6",
                 "shasum": ""
             },
             "require": {
@@ -206,7 +206,7 @@
                 "proprietary"
             ],
             "description": "Github Object API facade",
-            "time": "2016-05-22 12:50:02"
+            "time": "2016-05-22 16:39:20"
         },
         {
             "name": "guzzle/guzzle",
@@ -1083,16 +1083,16 @@
         },
         {
             "name": "mockery/mockery",
-            "version": "0.9.4",
+            "version": "0.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/padraic/mockery.git",
-                "reference": "70bba85e4aabc9449626651f48b9018ede04f86b"
+                "reference": "4db079511a283e5aba1b3c2fb19037c645e70fc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/padraic/mockery/zipball/70bba85e4aabc9449626651f48b9018ede04f86b",
-                "reference": "70bba85e4aabc9449626651f48b9018ede04f86b",
+                "url": "https://api.github.com/repos/padraic/mockery/zipball/4db079511a283e5aba1b3c2fb19037c645e70fc2",
+                "reference": "4db079511a283e5aba1b3c2fb19037c645e70fc2",
                 "shasum": ""
             },
             "require": {
@@ -1144,7 +1144,7 @@
                 "test double",
                 "testing"
             ],
-            "time": "2015-04-02 19:54:00"
+            "time": "2016-05-22 21:52:33"
         },
         {
             "name": "myclabs/deep-copy",
@@ -1518,16 +1518,16 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "3.3.1",
+            "version": "3.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "2431befdd451fac43fbcde94d1a92fb3b8b68f86"
+                "reference": "4862dac433cbdb4438b593fa7f79e07559ba157e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/2431befdd451fac43fbcde94d1a92fb3b8b68f86",
-                "reference": "2431befdd451fac43fbcde94d1a92fb3b8b68f86",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/4862dac433cbdb4438b593fa7f79e07559ba157e",
+                "reference": "4862dac433cbdb4438b593fa7f79e07559ba157e",
                 "shasum": ""
             },
             "require": {
@@ -1577,7 +1577,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2016-04-08 08:14:53"
+            "time": "2016-05-25 06:48:21"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -3500,9 +3500,9 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": ">=7.0.0"
