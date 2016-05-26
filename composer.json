@@ -3,6 +3,8 @@
     "description": "Github Object API facade bundle",
     "license": "proprietary",
     "type": "project",
+    "minimum-stability":"dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "DevBoardLib\\GithubObjectApiFacadeBundle\\": "src/",
